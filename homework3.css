@@ -1,0 +1,103 @@
+*{ 
+  font-family: Roboto;
+  color: #222222;
+   }
+H1{
+  font-size: 32px;
+  font-variant: normal;
+  font-weight: 400;
+  text-align: center;
+  border-bottom-style: solid;
+  border-bottom-color: #aaaaaa;
+  border-bottom-width: 2px;
+  }
+H2{
+	font-size: 24px;
+	font-weight: 500;
+	border-bottom-style: solid;
+	border-bottom-color: #aaaaaa;
+	border-bottom-width: 1px;
+  }
+H3{
+	font-size: 21px;
+	font-weight: 600;
+  }
+H4{
+	font-size: 18px;
+	font-weight: 600;
+  }
+img{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 15px;
+  width: 250px;
+  background-color: #eeeeee;
+  border: 3px solid #dddddd;
+  }
+#sod{
+  border: 3px solid #dddddd;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 15px;
+  width: 250px;
+  background-color: #eeeeee;
+    }
+#gi{
+  font-weight: 500;
+   }
+.img{
+  width: 100%;
+  border: 3px solid;
+    }
+#bloczit1{
+  padding: 15px;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+  font-style: italic;
+  }
+#bloczit2{
+  padding: 15px;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+  font-style: italic;
+  }
+#bloczit3{
+  padding: 15px;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+  font-style: italic;
+ }
+#bloczit4{
+  padding: 15px;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+  font-style: italic;
+  }
+#bloczit5{
+  padding: 15px;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+  font-style: italic;
+  }
+#bloczit6{
+  padding: 15px;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+  font-style: italic;
+}
+#silki{
+  text-decoration: none;
+  color: #0088ff;
+}
+*{
+  text-indent: 40px;
+  text-align: justify;
+}
+#q{
+  quotes: "\00ab" "\00bb";
+  color: #888888;
+}
